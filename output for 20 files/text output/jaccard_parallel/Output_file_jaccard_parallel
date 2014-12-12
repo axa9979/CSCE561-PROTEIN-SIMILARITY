@@ -1,0 +1,2842 @@
+Total comparison time using Parallel approach is :182 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d1x3ka_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d1x3ka_.keys
+final value of similarity using jaccard approach is :
+1.0
+final value of distance using jaccard approach is :
+0.0
+===========================================================================
+Total comparison time using Parallel approach is :255 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d1x3ka_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d1x46a_.keys
+final value of similarity using jaccard approach is :
+0.44211049814400855
+final value of distance using jaccard approach is :
+0.5578895018559915
+===========================================================================
+Total comparison time using Parallel approach is :25 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d1x3ka_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2bk9a_.keys
+final value of similarity using jaccard approach is :
+0.42121306498404765
+final value of distance using jaccard approach is :
+0.5787869350159524
+===========================================================================
+Total comparison time using Parallel approach is :26 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d1x3ka_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2c0ka_.keys
+final value of similarity using jaccard approach is :
+0.41272874754207045
+final value of distance using jaccard approach is :
+0.5872712524579295
+===========================================================================
+Total comparison time using Parallel approach is :22 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d1x3ka_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2ig3a_.keys
+final value of similarity using jaccard approach is :
+0.30485407008605775
+final value of distance using jaccard approach is :
+0.6951459299139422
+===========================================================================
+Total comparison time using Parallel approach is :36 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d1x3ka_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2wtga_.keys
+final value of similarity using jaccard approach is :
+0.4785470700345629
+final value of distance using jaccard approach is :
+0.5214529299654371
+===========================================================================
+Total comparison time using Parallel approach is :31 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d1x3ka_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2wy4a_.keys
+final value of similarity using jaccard approach is :
+0.3312960606734447
+final value of distance using jaccard approach is :
+0.6687039393265553
+===========================================================================
+Total comparison time using Parallel approach is :24 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d1x3ka_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0a_.keys
+final value of similarity using jaccard approach is :
+0.3421973886167238
+final value of distance using jaccard approach is :
+0.6578026113832762
+===========================================================================
+Total comparison time using Parallel approach is :21 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d1x3ka_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0b_.keys
+final value of similarity using jaccard approach is :
+0.3575603610840869
+final value of distance using jaccard approach is :
+0.642439638915913
+===========================================================================
+Total comparison time using Parallel approach is :21 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d1x3ka_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0c_.keys
+final value of similarity using jaccard approach is :
+0.2616613580877105
+final value of distance using jaccard approach is :
+0.7383386419122895
+===========================================================================
+Total comparison time using Parallel approach is :21 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d1x3ka_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0d_.keys
+final value of similarity using jaccard approach is :
+0.3101764159929957
+final value of distance using jaccard approach is :
+0.6898235840070043
+===========================================================================
+Total comparison time using Parallel approach is :22 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d1x3ka_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d3pt8a_.keys
+final value of similarity using jaccard approach is :
+0.5284490400407846
+final value of distance using jaccard approach is :
+0.47155095995921537
+===========================================================================
+Total comparison time using Parallel approach is :21 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d1x3ka_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d3ubca_.keys
+final value of similarity using jaccard approach is :
+0.33174223329238695
+final value of distance using jaccard approach is :
+0.668257766707613
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d1x3ka_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1asha_.keys
+final value of similarity using jaccard approach is :
+0.37496365826307265
+final value of distance using jaccard approach is :
+0.6250363417369273
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d1x3ka_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1b0ba_.keys
+final value of similarity using jaccard approach is :
+0.34296885582403386
+final value of distance using jaccard approach is :
+0.6570311441759662
+===========================================================================
+Total comparison time using Parallel approach is :19 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d1x3ka_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1cg5b_.keys
+final value of similarity using jaccard approach is :
+0.4014045169068009
+final value of distance using jaccard approach is :
+0.5985954830931991
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d1x3ka_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1cqxa1.keys
+final value of similarity using jaccard approach is :
+0.35035550199954874
+final value of distance using jaccard approach is :
+0.6496444980004512
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d1x3ka_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1ecaa_.keys
+final value of similarity using jaccard approach is :
+0.44118806021747314
+final value of distance using jaccard approach is :
+0.5588119397825269
+===========================================================================
+Total comparison time using Parallel approach is :22 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d1x3ka_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1gcva_.keys
+final value of similarity using jaccard approach is :
+0.3477443906661529
+final value of distance using jaccard approach is :
+0.6522556093338471
+===========================================================================
+Total comparison time using Parallel approach is :40 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d1x3ka_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1h97a_.keys
+final value of similarity using jaccard approach is :
+0.3724658819804846
+final value of distance using jaccard approach is :
+0.6275341180195154
+===========================================================================
+Total comparison time using Parallel approach is :21 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d1x46a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d1x3ka_.keys
+final value of similarity using jaccard approach is :
+0.44211049814400855
+final value of distance using jaccard approach is :
+0.5578895018559915
+===========================================================================
+Total comparison time using Parallel approach is :15 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d1x46a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d1x46a_.keys
+final value of similarity using jaccard approach is :
+1.0
+final value of distance using jaccard approach is :
+0.0
+===========================================================================
+Total comparison time using Parallel approach is :24 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d1x46a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2bk9a_.keys
+final value of similarity using jaccard approach is :
+0.49009119561170283
+final value of distance using jaccard approach is :
+0.5099088043882971
+===========================================================================
+Total comparison time using Parallel approach is :22 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d1x46a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2c0ka_.keys
+final value of similarity using jaccard approach is :
+0.40817009407383376
+final value of distance using jaccard approach is :
+0.5918299059261662
+===========================================================================
+Total comparison time using Parallel approach is :23 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d1x46a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2ig3a_.keys
+final value of similarity using jaccard approach is :
+0.3390715084695223
+final value of distance using jaccard approach is :
+0.6609284915304777
+===========================================================================
+Total comparison time using Parallel approach is :21 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d1x46a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2wtga_.keys
+final value of similarity using jaccard approach is :
+0.4503623917613767
+final value of distance using jaccard approach is :
+0.5496376082386233
+===========================================================================
+Total comparison time using Parallel approach is :21 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d1x46a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2wy4a_.keys
+final value of similarity using jaccard approach is :
+0.36099608466802224
+final value of distance using jaccard approach is :
+0.6390039153319778
+===========================================================================
+Total comparison time using Parallel approach is :21 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d1x46a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0a_.keys
+final value of similarity using jaccard approach is :
+0.3778396355114275
+final value of distance using jaccard approach is :
+0.6221603644885725
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d1x46a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0b_.keys
+final value of similarity using jaccard approach is :
+0.35431847919747245
+final value of distance using jaccard approach is :
+0.6456815208025275
+===========================================================================
+Total comparison time using Parallel approach is :22 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d1x46a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0c_.keys
+final value of similarity using jaccard approach is :
+0.3047573986432518
+final value of distance using jaccard approach is :
+0.6952426013567482
+===========================================================================
+Total comparison time using Parallel approach is :21 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d1x46a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0d_.keys
+final value of similarity using jaccard approach is :
+0.37021410003526967
+final value of distance using jaccard approach is :
+0.6297858999647303
+===========================================================================
+Total comparison time using Parallel approach is :23 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d1x46a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d3pt8a_.keys
+final value of similarity using jaccard approach is :
+0.4327107372104092
+final value of distance using jaccard approach is :
+0.5672892627895908
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d1x46a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d3ubca_.keys
+final value of similarity using jaccard approach is :
+0.3562964014227552
+final value of distance using jaccard approach is :
+0.6437035985772448
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d1x46a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1asha_.keys
+final value of similarity using jaccard approach is :
+0.37182386743901596
+final value of distance using jaccard approach is :
+0.628176132560984
+===========================================================================
+Total comparison time using Parallel approach is :21 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d1x46a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1b0ba_.keys
+final value of similarity using jaccard approach is :
+0.4321455702043975
+final value of distance using jaccard approach is :
+0.5678544297956025
+===========================================================================
+Total comparison time using Parallel approach is :22 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d1x46a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1cg5b_.keys
+final value of similarity using jaccard approach is :
+0.45113509982749417
+final value of distance using jaccard approach is :
+0.5488649001725059
+===========================================================================
+Total comparison time using Parallel approach is :19 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d1x46a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1cqxa1.keys
+final value of similarity using jaccard approach is :
+0.4285344112769486
+final value of distance using jaccard approach is :
+0.5714655887230514
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d1x46a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1ecaa_.keys
+final value of similarity using jaccard approach is :
+0.47609600904076943
+final value of distance using jaccard approach is :
+0.5239039909592306
+===========================================================================
+Total comparison time using Parallel approach is :23 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d1x46a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1gcva_.keys
+final value of similarity using jaccard approach is :
+0.4095513870720566
+final value of distance using jaccard approach is :
+0.5904486129279434
+===========================================================================
+Total comparison time using Parallel approach is :49 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d1x46a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1h97a_.keys
+final value of similarity using jaccard approach is :
+0.43956843824587555
+final value of distance using jaccard approach is :
+0.5604315617541245
+===========================================================================
+Total comparison time using Parallel approach is :27 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2bk9a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d1x3ka_.keys
+final value of similarity using jaccard approach is :
+0.42121306498404765
+final value of distance using jaccard approach is :
+0.5787869350159524
+===========================================================================
+Total comparison time using Parallel approach is :24 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2bk9a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d1x46a_.keys
+final value of similarity using jaccard approach is :
+0.49009119561170283
+final value of distance using jaccard approach is :
+0.5099088043882971
+===========================================================================
+Total comparison time using Parallel approach is :18 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2bk9a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2bk9a_.keys
+final value of similarity using jaccard approach is :
+1.0
+final value of distance using jaccard approach is :
+0.0
+===========================================================================
+Total comparison time using Parallel approach is :23 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2bk9a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2c0ka_.keys
+final value of similarity using jaccard approach is :
+0.39710027350112165
+final value of distance using jaccard approach is :
+0.6028997264988784
+===========================================================================
+Total comparison time using Parallel approach is :31 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2bk9a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2ig3a_.keys
+final value of similarity using jaccard approach is :
+0.29026553892913626
+final value of distance using jaccard approach is :
+0.7097344610708638
+===========================================================================
+Total comparison time using Parallel approach is :26 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2bk9a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2wtga_.keys
+final value of similarity using jaccard approach is :
+0.4193963741838568
+final value of distance using jaccard approach is :
+0.5806036258161432
+===========================================================================
+Total comparison time using Parallel approach is :34 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2bk9a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2wy4a_.keys
+final value of similarity using jaccard approach is :
+0.33615162634004936
+final value of distance using jaccard approach is :
+0.6638483736599506
+===========================================================================
+Total comparison time using Parallel approach is :30 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2bk9a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0a_.keys
+final value of similarity using jaccard approach is :
+0.35904787594492
+final value of distance using jaccard approach is :
+0.64095212405508
+===========================================================================
+Total comparison time using Parallel approach is :38 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2bk9a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0b_.keys
+final value of similarity using jaccard approach is :
+0.37187161091182114
+final value of distance using jaccard approach is :
+0.6281283890881788
+===========================================================================
+Total comparison time using Parallel approach is :28 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2bk9a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0c_.keys
+final value of similarity using jaccard approach is :
+0.26260643803576433
+final value of distance using jaccard approach is :
+0.7373935619642357
+===========================================================================
+Total comparison time using Parallel approach is :23 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2bk9a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0d_.keys
+final value of similarity using jaccard approach is :
+0.3453375406862623
+final value of distance using jaccard approach is :
+0.6546624593137377
+===========================================================================
+Total comparison time using Parallel approach is :36 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2bk9a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d3pt8a_.keys
+final value of similarity using jaccard approach is :
+0.41087494453001405
+final value of distance using jaccard approach is :
+0.589125055469986
+===========================================================================
+Total comparison time using Parallel approach is :24 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2bk9a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d3ubca_.keys
+final value of similarity using jaccard approach is :
+0.38557196179202896
+final value of distance using jaccard approach is :
+0.614428038207971
+===========================================================================
+Total comparison time using Parallel approach is :27 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2bk9a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1asha_.keys
+final value of similarity using jaccard approach is :
+0.36698432589459296
+final value of distance using jaccard approach is :
+0.633015674105407
+===========================================================================
+Total comparison time using Parallel approach is :29 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2bk9a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1b0ba_.keys
+final value of similarity using jaccard approach is :
+0.32832455076393063
+final value of distance using jaccard approach is :
+0.6716754492360694
+===========================================================================
+Total comparison time using Parallel approach is :22 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2bk9a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1cg5b_.keys
+final value of similarity using jaccard approach is :
+0.4307596878799606
+final value of distance using jaccard approach is :
+0.5692403121200393
+===========================================================================
+Total comparison time using Parallel approach is :24 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2bk9a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1cqxa1.keys
+final value of similarity using jaccard approach is :
+0.36933072938942657
+final value of distance using jaccard approach is :
+0.6306692706105734
+===========================================================================
+Total comparison time using Parallel approach is :19 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2bk9a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1ecaa_.keys
+final value of similarity using jaccard approach is :
+0.42882408505335934
+final value of distance using jaccard approach is :
+0.5711759149466407
+===========================================================================
+Total comparison time using Parallel approach is :23 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2bk9a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1gcva_.keys
+final value of similarity using jaccard approach is :
+0.3838224280157936
+final value of distance using jaccard approach is :
+0.6161775719842064
+===========================================================================
+Total comparison time using Parallel approach is :40 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2bk9a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1h97a_.keys
+final value of similarity using jaccard approach is :
+0.4035729451941586
+final value of distance using jaccard approach is :
+0.5964270548058415
+===========================================================================
+Total comparison time using Parallel approach is :19 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2c0ka_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d1x3ka_.keys
+final value of similarity using jaccard approach is :
+0.41272874754207045
+final value of distance using jaccard approach is :
+0.5872712524579295
+===========================================================================
+Total comparison time using Parallel approach is :22 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2c0ka_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d1x46a_.keys
+final value of similarity using jaccard approach is :
+0.40817009407383376
+final value of distance using jaccard approach is :
+0.5918299059261662
+===========================================================================
+Total comparison time using Parallel approach is :21 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2c0ka_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2bk9a_.keys
+final value of similarity using jaccard approach is :
+0.39710027350112165
+final value of distance using jaccard approach is :
+0.6028997264988784
+===========================================================================
+Total comparison time using Parallel approach is :15 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2c0ka_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2c0ka_.keys
+final value of similarity using jaccard approach is :
+1.0
+final value of distance using jaccard approach is :
+0.0
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2c0ka_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2ig3a_.keys
+final value of similarity using jaccard approach is :
+0.31318791423291303
+final value of distance using jaccard approach is :
+0.686812085767087
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2c0ka_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2wtga_.keys
+final value of similarity using jaccard approach is :
+0.4361988733774186
+final value of distance using jaccard approach is :
+0.5638011266225814
+===========================================================================
+Total comparison time using Parallel approach is :22 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2c0ka_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2wy4a_.keys
+final value of similarity using jaccard approach is :
+0.3803814265262782
+final value of distance using jaccard approach is :
+0.6196185734737218
+===========================================================================
+Total comparison time using Parallel approach is :23 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2c0ka_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0a_.keys
+final value of similarity using jaccard approach is :
+0.26128059983054636
+final value of distance using jaccard approach is :
+0.7387194001694537
+===========================================================================
+Total comparison time using Parallel approach is :18 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2c0ka_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0b_.keys
+final value of similarity using jaccard approach is :
+0.25561400545651125
+final value of distance using jaccard approach is :
+0.7443859945434887
+===========================================================================
+Total comparison time using Parallel approach is :22 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2c0ka_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0c_.keys
+final value of similarity using jaccard approach is :
+0.2038472616641989
+final value of distance using jaccard approach is :
+0.7961527383358011
+===========================================================================
+Total comparison time using Parallel approach is :22 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2c0ka_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0d_.keys
+final value of similarity using jaccard approach is :
+0.2258010232342898
+final value of distance using jaccard approach is :
+0.7741989767657103
+===========================================================================
+Total comparison time using Parallel approach is :22 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2c0ka_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d3pt8a_.keys
+final value of similarity using jaccard approach is :
+0.37008502639853175
+final value of distance using jaccard approach is :
+0.6299149736014682
+===========================================================================
+Total comparison time using Parallel approach is :21 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2c0ka_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d3ubca_.keys
+final value of similarity using jaccard approach is :
+0.3165526781793604
+final value of distance using jaccard approach is :
+0.6834473218206396
+===========================================================================
+Total comparison time using Parallel approach is :19 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2c0ka_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1asha_.keys
+final value of similarity using jaccard approach is :
+0.46468621835763607
+final value of distance using jaccard approach is :
+0.5353137816423639
+===========================================================================
+Total comparison time using Parallel approach is :21 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2c0ka_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1b0ba_.keys
+final value of similarity using jaccard approach is :
+0.27053289798550856
+final value of distance using jaccard approach is :
+0.7294671020144914
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2c0ka_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1cg5b_.keys
+final value of similarity using jaccard approach is :
+0.4242584708365988
+final value of distance using jaccard approach is :
+0.5757415291634012
+===========================================================================
+Total comparison time using Parallel approach is :19 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2c0ka_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1cqxa1.keys
+final value of similarity using jaccard approach is :
+0.34238646753667334
+final value of distance using jaccard approach is :
+0.6576135324633267
+===========================================================================
+Total comparison time using Parallel approach is :123 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2c0ka_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1ecaa_.keys
+final value of similarity using jaccard approach is :
+0.3435205397896408
+final value of distance using jaccard approach is :
+0.6564794602103592
+===========================================================================
+Total comparison time using Parallel approach is :19 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2c0ka_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1gcva_.keys
+final value of similarity using jaccard approach is :
+0.3299178254363027
+final value of distance using jaccard approach is :
+0.6700821745636973
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2c0ka_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1h97a_.keys
+final value of similarity using jaccard approach is :
+0.4061077008598564
+final value of distance using jaccard approach is :
+0.5938922991401436
+===========================================================================
+Total comparison time using Parallel approach is :22 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2ig3a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d1x3ka_.keys
+final value of similarity using jaccard approach is :
+0.30485407008605775
+final value of distance using jaccard approach is :
+0.6951459299139422
+===========================================================================
+Total comparison time using Parallel approach is :24 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2ig3a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d1x46a_.keys
+final value of similarity using jaccard approach is :
+0.3390715084695223
+final value of distance using jaccard approach is :
+0.6609284915304777
+===========================================================================
+Total comparison time using Parallel approach is :21 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2ig3a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2bk9a_.keys
+final value of similarity using jaccard approach is :
+0.29026553892913626
+final value of distance using jaccard approach is :
+0.7097344610708638
+===========================================================================
+Total comparison time using Parallel approach is :19 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2ig3a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2c0ka_.keys
+final value of similarity using jaccard approach is :
+0.31318791423291303
+final value of distance using jaccard approach is :
+0.686812085767087
+===========================================================================
+Total comparison time using Parallel approach is :13 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2ig3a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2ig3a_.keys
+final value of similarity using jaccard approach is :
+1.0
+final value of distance using jaccard approach is :
+0.0
+===========================================================================
+Total comparison time using Parallel approach is :21 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2ig3a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2wtga_.keys
+final value of similarity using jaccard approach is :
+0.33176379944269974
+final value of distance using jaccard approach is :
+0.6682362005573003
+===========================================================================
+Total comparison time using Parallel approach is :21 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2ig3a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2wy4a_.keys
+final value of similarity using jaccard approach is :
+0.4122864032253044
+final value of distance using jaccard approach is :
+0.5877135967746956
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2ig3a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0a_.keys
+final value of similarity using jaccard approach is :
+0.2285444606127345
+final value of distance using jaccard approach is :
+0.7714555393872655
+===========================================================================
+Total comparison time using Parallel approach is :23 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2ig3a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0b_.keys
+final value of similarity using jaccard approach is :
+0.22175505532239603
+final value of distance using jaccard approach is :
+0.778244944677604
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2ig3a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0c_.keys
+final value of similarity using jaccard approach is :
+0.1472041577466306
+final value of distance using jaccard approach is :
+0.8527958422533695
+===========================================================================
+Total comparison time using Parallel approach is :19 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2ig3a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0d_.keys
+final value of similarity using jaccard approach is :
+0.19113075111550032
+final value of distance using jaccard approach is :
+0.8088692488844997
+===========================================================================
+Total comparison time using Parallel approach is :19 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2ig3a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d3pt8a_.keys
+final value of similarity using jaccard approach is :
+0.32111782922872734
+final value of distance using jaccard approach is :
+0.6788821707712727
+===========================================================================
+Total comparison time using Parallel approach is :19 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2ig3a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d3ubca_.keys
+final value of similarity using jaccard approach is :
+0.39750553891826773
+final value of distance using jaccard approach is :
+0.6024944610817322
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2ig3a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1asha_.keys
+final value of similarity using jaccard approach is :
+0.32886240993168847
+final value of distance using jaccard approach is :
+0.6711375900683115
+===========================================================================
+Total comparison time using Parallel approach is :18 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2ig3a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1b0ba_.keys
+final value of similarity using jaccard approach is :
+0.2601300793831668
+final value of distance using jaccard approach is :
+0.7398699206168332
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2ig3a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1cg5b_.keys
+final value of similarity using jaccard approach is :
+0.34415374677002586
+final value of distance using jaccard approach is :
+0.6558462532299741
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2ig3a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1cqxa1.keys
+final value of similarity using jaccard approach is :
+0.33372580885889125
+final value of distance using jaccard approach is :
+0.6662741911411088
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2ig3a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1ecaa_.keys
+final value of similarity using jaccard approach is :
+0.305530921000641
+final value of distance using jaccard approach is :
+0.6944690789993591
+===========================================================================
+Total comparison time using Parallel approach is :21 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2ig3a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1gcva_.keys
+final value of similarity using jaccard approach is :
+0.2470598192058278
+final value of distance using jaccard approach is :
+0.7529401807941722
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2ig3a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1h97a_.keys
+final value of similarity using jaccard approach is :
+0.33764121499846145
+final value of distance using jaccard approach is :
+0.6623587850015386
+===========================================================================
+Total comparison time using Parallel approach is :19 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2wtga_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d1x3ka_.keys
+final value of similarity using jaccard approach is :
+0.4785470700345629
+final value of distance using jaccard approach is :
+0.5214529299654371
+===========================================================================
+Total comparison time using Parallel approach is :22 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2wtga_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d1x46a_.keys
+final value of similarity using jaccard approach is :
+0.4503623917613767
+final value of distance using jaccard approach is :
+0.5496376082386233
+===========================================================================
+Total comparison time using Parallel approach is :19 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2wtga_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2bk9a_.keys
+final value of similarity using jaccard approach is :
+0.4193963741838568
+final value of distance using jaccard approach is :
+0.5806036258161432
+===========================================================================
+Total comparison time using Parallel approach is :21 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2wtga_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2c0ka_.keys
+final value of similarity using jaccard approach is :
+0.4361988733774186
+final value of distance using jaccard approach is :
+0.5638011266225814
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2wtga_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2ig3a_.keys
+final value of similarity using jaccard approach is :
+0.33176379944269974
+final value of distance using jaccard approach is :
+0.6682362005573003
+===========================================================================
+Total comparison time using Parallel approach is :13 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2wtga_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2wtga_.keys
+final value of similarity using jaccard approach is :
+1.0
+final value of distance using jaccard approach is :
+0.0
+===========================================================================
+Total comparison time using Parallel approach is :21 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2wtga_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2wy4a_.keys
+final value of similarity using jaccard approach is :
+0.35875790923839196
+final value of distance using jaccard approach is :
+0.6412420907616081
+===========================================================================
+Total comparison time using Parallel approach is :21 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2wtga_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0a_.keys
+final value of similarity using jaccard approach is :
+0.37891273316109586
+final value of distance using jaccard approach is :
+0.6210872668389041
+===========================================================================
+Total comparison time using Parallel approach is :19 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2wtga_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0b_.keys
+final value of similarity using jaccard approach is :
+0.35317092401024974
+final value of distance using jaccard approach is :
+0.6468290759897503
+===========================================================================
+Total comparison time using Parallel approach is :19 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2wtga_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0c_.keys
+final value of similarity using jaccard approach is :
+0.258742945660628
+final value of distance using jaccard approach is :
+0.741257054339372
+===========================================================================
+Total comparison time using Parallel approach is :19 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2wtga_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0d_.keys
+final value of similarity using jaccard approach is :
+0.28140984735401287
+final value of distance using jaccard approach is :
+0.7185901526459871
+===========================================================================
+Total comparison time using Parallel approach is :21 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2wtga_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d3pt8a_.keys
+final value of similarity using jaccard approach is :
+0.4635722415692815
+final value of distance using jaccard approach is :
+0.5364277584307184
+===========================================================================
+Total comparison time using Parallel approach is :19 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2wtga_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d3ubca_.keys
+final value of similarity using jaccard approach is :
+0.3709881247135585
+final value of distance using jaccard approach is :
+0.6290118752864415
+===========================================================================
+Total comparison time using Parallel approach is :19 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2wtga_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1asha_.keys
+final value of similarity using jaccard approach is :
+0.4559221153280708
+final value of distance using jaccard approach is :
+0.5440778846719292
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2wtga_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1b0ba_.keys
+final value of similarity using jaccard approach is :
+0.33552636361653715
+final value of distance using jaccard approach is :
+0.6644736363834629
+===========================================================================
+Total comparison time using Parallel approach is :21 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2wtga_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1cg5b_.keys
+final value of similarity using jaccard approach is :
+0.44443163144693976
+final value of distance using jaccard approach is :
+0.5555683685530602
+===========================================================================
+Total comparison time using Parallel approach is :21 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2wtga_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1cqxa1.keys
+final value of similarity using jaccard approach is :
+0.40655578104754225
+final value of distance using jaccard approach is :
+0.5934442189524578
+===========================================================================
+Total comparison time using Parallel approach is :18 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2wtga_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1ecaa_.keys
+final value of similarity using jaccard approach is :
+0.3732331758773431
+final value of distance using jaccard approach is :
+0.6267668241226569
+===========================================================================
+Total comparison time using Parallel approach is :21 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2wtga_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1gcva_.keys
+final value of similarity using jaccard approach is :
+0.36075258036271424
+final value of distance using jaccard approach is :
+0.6392474196372857
+===========================================================================
+Total comparison time using Parallel approach is :17 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2wtga_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1h97a_.keys
+final value of similarity using jaccard approach is :
+0.4038693783200441
+final value of distance using jaccard approach is :
+0.5961306216799559
+===========================================================================
+Total comparison time using Parallel approach is :21 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2wy4a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d1x3ka_.keys
+final value of similarity using jaccard approach is :
+0.3312960606734447
+final value of distance using jaccard approach is :
+0.6687039393265553
+===========================================================================
+Total comparison time using Parallel approach is :23 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2wy4a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d1x46a_.keys
+final value of similarity using jaccard approach is :
+0.36099608466802224
+final value of distance using jaccard approach is :
+0.6390039153319778
+===========================================================================
+Total comparison time using Parallel approach is :23 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2wy4a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2bk9a_.keys
+final value of similarity using jaccard approach is :
+0.33615162634004936
+final value of distance using jaccard approach is :
+0.6638483736599506
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2wy4a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2c0ka_.keys
+final value of similarity using jaccard approach is :
+0.3803814265262782
+final value of distance using jaccard approach is :
+0.6196185734737218
+===========================================================================
+Total comparison time using Parallel approach is :24 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2wy4a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2ig3a_.keys
+final value of similarity using jaccard approach is :
+0.4122864032253044
+final value of distance using jaccard approach is :
+0.5877135967746956
+===========================================================================
+Total comparison time using Parallel approach is :19 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2wy4a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2wtga_.keys
+final value of similarity using jaccard approach is :
+0.35875790923839196
+final value of distance using jaccard approach is :
+0.6412420907616081
+===========================================================================
+Total comparison time using Parallel approach is :16 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2wy4a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2wy4a_.keys
+final value of similarity using jaccard approach is :
+1.0
+final value of distance using jaccard approach is :
+0.0
+===========================================================================
+Total comparison time using Parallel approach is :21 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2wy4a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0a_.keys
+final value of similarity using jaccard approach is :
+0.23472263082090458
+final value of distance using jaccard approach is :
+0.7652773691790954
+===========================================================================
+Total comparison time using Parallel approach is :19 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2wy4a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0b_.keys
+final value of similarity using jaccard approach is :
+0.23626229544020474
+final value of distance using jaccard approach is :
+0.7637377045597953
+===========================================================================
+Total comparison time using Parallel approach is :18 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2wy4a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0c_.keys
+final value of similarity using jaccard approach is :
+0.1564267150196434
+final value of distance using jaccard approach is :
+0.8435732849803566
+===========================================================================
+Total comparison time using Parallel approach is :21 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2wy4a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0d_.keys
+final value of similarity using jaccard approach is :
+0.215034744812952
+final value of distance using jaccard approach is :
+0.784965255187048
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2wy4a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d3pt8a_.keys
+final value of similarity using jaccard approach is :
+0.33592382356357986
+final value of distance using jaccard approach is :
+0.6640761764364201
+===========================================================================
+Total comparison time using Parallel approach is :19 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2wy4a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d3ubca_.keys
+final value of similarity using jaccard approach is :
+0.400317979420149
+final value of distance using jaccard approach is :
+0.599682020579851
+===========================================================================
+Total comparison time using Parallel approach is :19 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2wy4a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1asha_.keys
+final value of similarity using jaccard approach is :
+0.367058689035282
+final value of distance using jaccard approach is :
+0.632941310964718
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2wy4a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1b0ba_.keys
+final value of similarity using jaccard approach is :
+0.2644912440274508
+final value of distance using jaccard approach is :
+0.7355087559725493
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2wy4a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1cg5b_.keys
+final value of similarity using jaccard approach is :
+0.35965526405710163
+final value of distance using jaccard approach is :
+0.6403447359428984
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2wy4a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1cqxa1.keys
+final value of similarity using jaccard approach is :
+0.4090348438407985
+final value of distance using jaccard approach is :
+0.5909651561592015
+===========================================================================
+Total comparison time using Parallel approach is :21 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2wy4a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1ecaa_.keys
+final value of similarity using jaccard approach is :
+0.31319780604360037
+final value of distance using jaccard approach is :
+0.6868021939563996
+===========================================================================
+Total comparison time using Parallel approach is :19 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2wy4a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1gcva_.keys
+final value of similarity using jaccard approach is :
+0.30954257567176297
+final value of distance using jaccard approach is :
+0.6904574243282371
+===========================================================================
+Total comparison time using Parallel approach is :19 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2wy4a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1h97a_.keys
+final value of similarity using jaccard approach is :
+0.39645082700664613
+final value of distance using jaccard approach is :
+0.6035491729933539
+===========================================================================
+Total comparison time using Parallel approach is :21 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d1x3ka_.keys
+final value of similarity using jaccard approach is :
+0.3421973886167238
+final value of distance using jaccard approach is :
+0.6578026113832762
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d1x46a_.keys
+final value of similarity using jaccard approach is :
+0.3778396355114275
+final value of distance using jaccard approach is :
+0.6221603644885725
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2bk9a_.keys
+final value of similarity using jaccard approach is :
+0.35904787594492
+final value of distance using jaccard approach is :
+0.64095212405508
+===========================================================================
+Total comparison time using Parallel approach is :19 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2c0ka_.keys
+final value of similarity using jaccard approach is :
+0.26128059983054636
+final value of distance using jaccard approach is :
+0.7387194001694537
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2ig3a_.keys
+final value of similarity using jaccard approach is :
+0.2285444606127345
+final value of distance using jaccard approach is :
+0.7714555393872655
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2wtga_.keys
+final value of similarity using jaccard approach is :
+0.37891273316109586
+final value of distance using jaccard approach is :
+0.6210872668389041
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2wy4a_.keys
+final value of similarity using jaccard approach is :
+0.23472263082090458
+final value of distance using jaccard approach is :
+0.7652773691790954
+===========================================================================
+Total comparison time using Parallel approach is :15 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0a_.keys
+final value of similarity using jaccard approach is :
+1.0
+final value of distance using jaccard approach is :
+0.0
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0b_.keys
+final value of similarity using jaccard approach is :
+0.5088028343246213
+final value of distance using jaccard approach is :
+0.49119716567537874
+===========================================================================
+Total comparison time using Parallel approach is :18 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0c_.keys
+final value of similarity using jaccard approach is :
+0.4238066118016312
+final value of distance using jaccard approach is :
+0.5761933881983687
+===========================================================================
+Total comparison time using Parallel approach is :21 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0d_.keys
+final value of similarity using jaccard approach is :
+0.4301471422627378
+final value of distance using jaccard approach is :
+0.5698528577372621
+===========================================================================
+Total comparison time using Parallel approach is :18 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d3pt8a_.keys
+final value of similarity using jaccard approach is :
+0.3648137738694282
+final value of distance using jaccard approach is :
+0.6351862261305719
+===========================================================================
+Total comparison time using Parallel approach is :21 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d3ubca_.keys
+final value of similarity using jaccard approach is :
+0.3141808303778497
+final value of distance using jaccard approach is :
+0.6858191696221503
+===========================================================================
+Total comparison time using Parallel approach is :25 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1asha_.keys
+final value of similarity using jaccard approach is :
+0.27594152757236423
+final value of distance using jaccard approach is :
+0.7240584724276358
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1b0ba_.keys
+final value of similarity using jaccard approach is :
+0.3517340897989182
+final value of distance using jaccard approach is :
+0.6482659102010818
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1cg5b_.keys
+final value of similarity using jaccard approach is :
+0.3420908609558332
+final value of distance using jaccard approach is :
+0.6579091390441668
+===========================================================================
+Total comparison time using Parallel approach is :21 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1cqxa1.keys
+final value of similarity using jaccard approach is :
+0.3243090956096332
+final value of distance using jaccard approach is :
+0.6756909043903667
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1ecaa_.keys
+final value of similarity using jaccard approach is :
+0.3314165687326222
+final value of distance using jaccard approach is :
+0.6685834312673777
+===========================================================================
+Total comparison time using Parallel approach is :21 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1gcva_.keys
+final value of similarity using jaccard approach is :
+0.3416887868355144
+final value of distance using jaccard approach is :
+0.6583112131644856
+===========================================================================
+Total comparison time using Parallel approach is :18 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1h97a_.keys
+final value of similarity using jaccard approach is :
+0.2782624800735542
+final value of distance using jaccard approach is :
+0.7217375199264457
+===========================================================================
+Total comparison time using Parallel approach is :21 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0b_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d1x3ka_.keys
+final value of similarity using jaccard approach is :
+0.3575603610840869
+final value of distance using jaccard approach is :
+0.642439638915913
+===========================================================================
+Total comparison time using Parallel approach is :21 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0b_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d1x46a_.keys
+final value of similarity using jaccard approach is :
+0.35431847919747245
+final value of distance using jaccard approach is :
+0.6456815208025275
+===========================================================================
+Total comparison time using Parallel approach is :21 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0b_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2bk9a_.keys
+final value of similarity using jaccard approach is :
+0.37187161091182114
+final value of distance using jaccard approach is :
+0.6281283890881788
+===========================================================================
+Total comparison time using Parallel approach is :26 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0b_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2c0ka_.keys
+final value of similarity using jaccard approach is :
+0.25561400545651125
+final value of distance using jaccard approach is :
+0.7443859945434887
+===========================================================================
+Total comparison time using Parallel approach is :26 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0b_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2ig3a_.keys
+final value of similarity using jaccard approach is :
+0.22175505532239603
+final value of distance using jaccard approach is :
+0.778244944677604
+===========================================================================
+Total comparison time using Parallel approach is :18 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0b_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2wtga_.keys
+final value of similarity using jaccard approach is :
+0.35317092401024974
+final value of distance using jaccard approach is :
+0.6468290759897503
+===========================================================================
+Total comparison time using Parallel approach is :21 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0b_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2wy4a_.keys
+final value of similarity using jaccard approach is :
+0.23626229544020474
+final value of distance using jaccard approach is :
+0.7637377045597953
+===========================================================================
+Total comparison time using Parallel approach is :22 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0b_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0a_.keys
+final value of similarity using jaccard approach is :
+0.5088028343246213
+final value of distance using jaccard approach is :
+0.49119716567537874
+===========================================================================
+Total comparison time using Parallel approach is :13 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0b_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0b_.keys
+final value of similarity using jaccard approach is :
+1.0
+final value of distance using jaccard approach is :
+0.0
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0b_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0c_.keys
+final value of similarity using jaccard approach is :
+0.42992760759866383
+final value of distance using jaccard approach is :
+0.5700723924013362
+===========================================================================
+Total comparison time using Parallel approach is :22 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0b_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0d_.keys
+final value of similarity using jaccard approach is :
+0.4112508648266763
+final value of distance using jaccard approach is :
+0.5887491351733237
+===========================================================================
+Total comparison time using Parallel approach is :19 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0b_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d3pt8a_.keys
+final value of similarity using jaccard approach is :
+0.3597759711789378
+final value of distance using jaccard approach is :
+0.6402240288210622
+===========================================================================
+Total comparison time using Parallel approach is :25 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0b_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d3ubca_.keys
+final value of similarity using jaccard approach is :
+0.3033329162626294
+final value of distance using jaccard approach is :
+0.6966670837373705
+===========================================================================
+Total comparison time using Parallel approach is :21 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0b_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1asha_.keys
+final value of similarity using jaccard approach is :
+0.2600944835995797
+final value of distance using jaccard approach is :
+0.7399055164004202
+===========================================================================
+Total comparison time using Parallel approach is :21 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0b_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1b0ba_.keys
+final value of similarity using jaccard approach is :
+0.33726489124570214
+final value of distance using jaccard approach is :
+0.6627351087542979
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0b_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1cg5b_.keys
+final value of similarity using jaccard approach is :
+0.2868019598017928
+final value of distance using jaccard approach is :
+0.7131980401982072
+===========================================================================
+Total comparison time using Parallel approach is :19 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0b_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1cqxa1.keys
+final value of similarity using jaccard approach is :
+0.2908148198843884
+final value of distance using jaccard approach is :
+0.7091851801156116
+===========================================================================
+Total comparison time using Parallel approach is :21 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0b_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1ecaa_.keys
+final value of similarity using jaccard approach is :
+0.30838723918986843
+final value of distance using jaccard approach is :
+0.6916127608101316
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0b_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1gcva_.keys
+final value of similarity using jaccard approach is :
+0.30032068777292575
+final value of distance using jaccard approach is :
+0.6996793122270742
+===========================================================================
+Total comparison time using Parallel approach is :19 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0b_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1h97a_.keys
+final value of similarity using jaccard approach is :
+0.23679737045145183
+final value of distance using jaccard approach is :
+0.7632026295485481
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0c_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d1x3ka_.keys
+final value of similarity using jaccard approach is :
+0.2616613580877105
+final value of distance using jaccard approach is :
+0.7383386419122895
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0c_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d1x46a_.keys
+final value of similarity using jaccard approach is :
+0.3047573986432518
+final value of distance using jaccard approach is :
+0.6952426013567482
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0c_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2bk9a_.keys
+final value of similarity using jaccard approach is :
+0.26260643803576433
+final value of distance using jaccard approach is :
+0.7373935619642357
+===========================================================================
+Total comparison time using Parallel approach is :19 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0c_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2c0ka_.keys
+final value of similarity using jaccard approach is :
+0.2038472616641989
+final value of distance using jaccard approach is :
+0.7961527383358011
+===========================================================================
+Total comparison time using Parallel approach is :18 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0c_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2ig3a_.keys
+final value of similarity using jaccard approach is :
+0.1472041577466306
+final value of distance using jaccard approach is :
+0.8527958422533695
+===========================================================================
+Total comparison time using Parallel approach is :21 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0c_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2wtga_.keys
+final value of similarity using jaccard approach is :
+0.258742945660628
+final value of distance using jaccard approach is :
+0.741257054339372
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0c_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2wy4a_.keys
+final value of similarity using jaccard approach is :
+0.1564267150196434
+final value of distance using jaccard approach is :
+0.8435732849803566
+===========================================================================
+Total comparison time using Parallel approach is :19 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0c_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0a_.keys
+final value of similarity using jaccard approach is :
+0.4238066118016312
+final value of distance using jaccard approach is :
+0.5761933881983687
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0c_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0b_.keys
+final value of similarity using jaccard approach is :
+0.42992760759866383
+final value of distance using jaccard approach is :
+0.5700723924013362
+===========================================================================
+Total comparison time using Parallel approach is :13 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0c_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0c_.keys
+final value of similarity using jaccard approach is :
+1.0
+final value of distance using jaccard approach is :
+0.0
+===========================================================================
+Total comparison time using Parallel approach is :21 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0c_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0d_.keys
+final value of similarity using jaccard approach is :
+0.3897750908347498
+final value of distance using jaccard approach is :
+0.6102249091652502
+===========================================================================
+Total comparison time using Parallel approach is :18 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0c_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d3pt8a_.keys
+final value of similarity using jaccard approach is :
+0.26366504238749167
+final value of distance using jaccard approach is :
+0.7363349576125083
+===========================================================================
+Total comparison time using Parallel approach is :22 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0c_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d3ubca_.keys
+final value of similarity using jaccard approach is :
+0.1790235322335634
+final value of distance using jaccard approach is :
+0.8209764677664366
+===========================================================================
+Total comparison time using Parallel approach is :18 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0c_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1asha_.keys
+final value of similarity using jaccard approach is :
+0.19012271458991115
+final value of distance using jaccard approach is :
+0.8098772854100889
+===========================================================================
+Total comparison time using Parallel approach is :21 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0c_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1b0ba_.keys
+final value of similarity using jaccard approach is :
+0.30752556505709183
+final value of distance using jaccard approach is :
+0.6924744349429082
+===========================================================================
+Total comparison time using Parallel approach is :23 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0c_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1cg5b_.keys
+final value of similarity using jaccard approach is :
+0.22387290456556416
+final value of distance using jaccard approach is :
+0.7761270954344358
+===========================================================================
+Total comparison time using Parallel approach is :19 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0c_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1cqxa1.keys
+final value of similarity using jaccard approach is :
+0.23521160906005403
+final value of distance using jaccard approach is :
+0.764788390939946
+===========================================================================
+Total comparison time using Parallel approach is :18 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0c_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1ecaa_.keys
+final value of similarity using jaccard approach is :
+0.24342609105466387
+final value of distance using jaccard approach is :
+0.7565739089453362
+===========================================================================
+Total comparison time using Parallel approach is :21 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0c_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1gcva_.keys
+final value of similarity using jaccard approach is :
+0.2350799019344679
+final value of distance using jaccard approach is :
+0.7649200980655321
+===========================================================================
+Total comparison time using Parallel approach is :18 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0c_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1h97a_.keys
+final value of similarity using jaccard approach is :
+0.17788327790224068
+final value of distance using jaccard approach is :
+0.8221167220977593
+===========================================================================
+Total comparison time using Parallel approach is :22 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0d_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d1x3ka_.keys
+final value of similarity using jaccard approach is :
+0.3101764159929957
+final value of distance using jaccard approach is :
+0.6898235840070043
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0d_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d1x46a_.keys
+final value of similarity using jaccard approach is :
+0.37021410003526967
+final value of distance using jaccard approach is :
+0.6297858999647303
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0d_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2bk9a_.keys
+final value of similarity using jaccard approach is :
+0.3453375406862623
+final value of distance using jaccard approach is :
+0.6546624593137377
+===========================================================================
+Total comparison time using Parallel approach is :22 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0d_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2c0ka_.keys
+final value of similarity using jaccard approach is :
+0.2258010232342898
+final value of distance using jaccard approach is :
+0.7741989767657103
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0d_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2ig3a_.keys
+final value of similarity using jaccard approach is :
+0.19113075111550032
+final value of distance using jaccard approach is :
+0.8088692488844997
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0d_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2wtga_.keys
+final value of similarity using jaccard approach is :
+0.28140984735401287
+final value of distance using jaccard approach is :
+0.7185901526459871
+===========================================================================
+Total comparison time using Parallel approach is :19 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0d_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2wy4a_.keys
+final value of similarity using jaccard approach is :
+0.215034744812952
+final value of distance using jaccard approach is :
+0.784965255187048
+===========================================================================
+Total comparison time using Parallel approach is :21 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0d_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0a_.keys
+final value of similarity using jaccard approach is :
+0.4301471422627378
+final value of distance using jaccard approach is :
+0.5698528577372621
+===========================================================================
+Total comparison time using Parallel approach is :23 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0d_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0b_.keys
+final value of similarity using jaccard approach is :
+0.4112508648266763
+final value of distance using jaccard approach is :
+0.5887491351733237
+===========================================================================
+Total comparison time using Parallel approach is :19 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0d_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0c_.keys
+final value of similarity using jaccard approach is :
+0.3897750908347498
+final value of distance using jaccard approach is :
+0.6102249091652502
+===========================================================================
+Total comparison time using Parallel approach is :15 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0d_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0d_.keys
+final value of similarity using jaccard approach is :
+1.0
+final value of distance using jaccard approach is :
+0.0
+===========================================================================
+Total comparison time using Parallel approach is :22 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0d_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d3pt8a_.keys
+final value of similarity using jaccard approach is :
+0.30692682373565466
+final value of distance using jaccard approach is :
+0.6930731762643454
+===========================================================================
+Total comparison time using Parallel approach is :22 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0d_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d3ubca_.keys
+final value of similarity using jaccard approach is :
+0.26567653622362336
+final value of distance using jaccard approach is :
+0.7343234637763767
+===========================================================================
+Total comparison time using Parallel approach is :23 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0d_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1asha_.keys
+final value of similarity using jaccard approach is :
+0.20719084520760778
+final value of distance using jaccard approach is :
+0.7928091547923922
+===========================================================================
+Total comparison time using Parallel approach is :18 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0d_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1b0ba_.keys
+final value of similarity using jaccard approach is :
+0.3446079804901951
+final value of distance using jaccard approach is :
+0.6553920195098049
+===========================================================================
+Total comparison time using Parallel approach is :22 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0d_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1cg5b_.keys
+final value of similarity using jaccard approach is :
+0.2659612264160949
+final value of distance using jaccard approach is :
+0.7340387735839051
+===========================================================================
+Total comparison time using Parallel approach is :22 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0d_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1cqxa1.keys
+final value of similarity using jaccard approach is :
+0.2858060466986359
+final value of distance using jaccard approach is :
+0.7141939533013641
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0d_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1ecaa_.keys
+final value of similarity using jaccard approach is :
+0.34943914604503185
+final value of distance using jaccard approach is :
+0.6505608539549681
+===========================================================================
+Total comparison time using Parallel approach is :21 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0d_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1gcva_.keys
+final value of similarity using jaccard approach is :
+0.3297375469871925
+final value of distance using jaccard approach is :
+0.6702624530128075
+===========================================================================
+Total comparison time using Parallel approach is :22 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0d_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1h97a_.keys
+final value of similarity using jaccard approach is :
+0.2703621945670815
+final value of distance using jaccard approach is :
+0.7296378054329185
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d3pt8a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d1x3ka_.keys
+final value of similarity using jaccard approach is :
+0.5284490400407846
+final value of distance using jaccard approach is :
+0.47155095995921537
+===========================================================================
+Total comparison time using Parallel approach is :26 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d3pt8a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d1x46a_.keys
+final value of similarity using jaccard approach is :
+0.4327107372104092
+final value of distance using jaccard approach is :
+0.5672892627895908
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d3pt8a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2bk9a_.keys
+final value of similarity using jaccard approach is :
+0.41087494453001405
+final value of distance using jaccard approach is :
+0.589125055469986
+===========================================================================
+Total comparison time using Parallel approach is :21 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d3pt8a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2c0ka_.keys
+final value of similarity using jaccard approach is :
+0.37008502639853175
+final value of distance using jaccard approach is :
+0.6299149736014682
+===========================================================================
+Total comparison time using Parallel approach is :21 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d3pt8a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2ig3a_.keys
+final value of similarity using jaccard approach is :
+0.32111782922872734
+final value of distance using jaccard approach is :
+0.6788821707712727
+===========================================================================
+Total comparison time using Parallel approach is :19 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d3pt8a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2wtga_.keys
+final value of similarity using jaccard approach is :
+0.4635722415692815
+final value of distance using jaccard approach is :
+0.5364277584307184
+===========================================================================
+Total comparison time using Parallel approach is :19 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d3pt8a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2wy4a_.keys
+final value of similarity using jaccard approach is :
+0.33592382356357986
+final value of distance using jaccard approach is :
+0.6640761764364201
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d3pt8a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0a_.keys
+final value of similarity using jaccard approach is :
+0.3648137738694282
+final value of distance using jaccard approach is :
+0.6351862261305719
+===========================================================================
+Total comparison time using Parallel approach is :21 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d3pt8a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0b_.keys
+final value of similarity using jaccard approach is :
+0.3597759711789378
+final value of distance using jaccard approach is :
+0.6402240288210622
+===========================================================================
+Total comparison time using Parallel approach is :19 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d3pt8a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0c_.keys
+final value of similarity using jaccard approach is :
+0.26366504238749167
+final value of distance using jaccard approach is :
+0.7363349576125083
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d3pt8a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0d_.keys
+final value of similarity using jaccard approach is :
+0.30692682373565466
+final value of distance using jaccard approach is :
+0.6930731762643454
+===========================================================================
+Total comparison time using Parallel approach is :13 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d3pt8a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d3pt8a_.keys
+final value of similarity using jaccard approach is :
+1.0
+final value of distance using jaccard approach is :
+0.0
+===========================================================================
+Total comparison time using Parallel approach is :22 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d3pt8a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d3ubca_.keys
+final value of similarity using jaccard approach is :
+0.35910593070260427
+final value of distance using jaccard approach is :
+0.6408940692973957
+===========================================================================
+Total comparison time using Parallel approach is :18 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d3pt8a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1asha_.keys
+final value of similarity using jaccard approach is :
+0.36413188854176654
+final value of distance using jaccard approach is :
+0.6358681114582334
+===========================================================================
+Total comparison time using Parallel approach is :21 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d3pt8a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1b0ba_.keys
+final value of similarity using jaccard approach is :
+0.37608507617966824
+final value of distance using jaccard approach is :
+0.6239149238203318
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d3pt8a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1cg5b_.keys
+final value of similarity using jaccard approach is :
+0.4073667722414281
+final value of distance using jaccard approach is :
+0.592633227758572
+===========================================================================
+Total comparison time using Parallel approach is :19 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d3pt8a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1cqxa1.keys
+final value of similarity using jaccard approach is :
+0.3640009797317984
+final value of distance using jaccard approach is :
+0.6359990202682015
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d3pt8a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1ecaa_.keys
+final value of similarity using jaccard approach is :
+0.4227103494181241
+final value of distance using jaccard approach is :
+0.5772896505818759
+===========================================================================
+Total comparison time using Parallel approach is :18 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d3pt8a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1gcva_.keys
+final value of similarity using jaccard approach is :
+0.35648863163266675
+final value of distance using jaccard approach is :
+0.6435113683673332
+===========================================================================
+Total comparison time using Parallel approach is :21 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d3pt8a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1h97a_.keys
+final value of similarity using jaccard approach is :
+0.38301655567295956
+final value of distance using jaccard approach is :
+0.6169834443270404
+===========================================================================
+Total comparison time using Parallel approach is :19 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d3ubca_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d1x3ka_.keys
+final value of similarity using jaccard approach is :
+0.33174223329238695
+final value of distance using jaccard approach is :
+0.668257766707613
+===========================================================================
+Total comparison time using Parallel approach is :22 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d3ubca_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d1x46a_.keys
+final value of similarity using jaccard approach is :
+0.3562964014227552
+final value of distance using jaccard approach is :
+0.6437035985772448
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d3ubca_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2bk9a_.keys
+final value of similarity using jaccard approach is :
+0.38557196179202896
+final value of distance using jaccard approach is :
+0.614428038207971
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d3ubca_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2c0ka_.keys
+final value of similarity using jaccard approach is :
+0.3165526781793604
+final value of distance using jaccard approach is :
+0.6834473218206396
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d3ubca_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2ig3a_.keys
+final value of similarity using jaccard approach is :
+0.39750553891826773
+final value of distance using jaccard approach is :
+0.6024944610817322
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d3ubca_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2wtga_.keys
+final value of similarity using jaccard approach is :
+0.3709881247135585
+final value of distance using jaccard approach is :
+0.6290118752864415
+===========================================================================
+Total comparison time using Parallel approach is :19 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d3ubca_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2wy4a_.keys
+final value of similarity using jaccard approach is :
+0.400317979420149
+final value of distance using jaccard approach is :
+0.599682020579851
+===========================================================================
+Total comparison time using Parallel approach is :23 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d3ubca_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0a_.keys
+final value of similarity using jaccard approach is :
+0.3141808303778497
+final value of distance using jaccard approach is :
+0.6858191696221503
+===========================================================================
+Total comparison time using Parallel approach is :18 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d3ubca_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0b_.keys
+final value of similarity using jaccard approach is :
+0.3033329162626294
+final value of distance using jaccard approach is :
+0.6966670837373705
+===========================================================================
+Total comparison time using Parallel approach is :22 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d3ubca_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0c_.keys
+final value of similarity using jaccard approach is :
+0.1790235322335634
+final value of distance using jaccard approach is :
+0.8209764677664366
+===========================================================================
+Total comparison time using Parallel approach is :21 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d3ubca_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0d_.keys
+final value of similarity using jaccard approach is :
+0.26567653622362336
+final value of distance using jaccard approach is :
+0.7343234637763767
+===========================================================================
+Total comparison time using Parallel approach is :26 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d3ubca_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d3pt8a_.keys
+final value of similarity using jaccard approach is :
+0.35910593070260427
+final value of distance using jaccard approach is :
+0.6408940692973957
+===========================================================================
+Total comparison time using Parallel approach is :14 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d3ubca_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d3ubca_.keys
+final value of similarity using jaccard approach is :
+1.0
+final value of distance using jaccard approach is :
+0.0
+===========================================================================
+Total comparison time using Parallel approach is :22 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d3ubca_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1asha_.keys
+final value of similarity using jaccard approach is :
+0.3451457934263736
+final value of distance using jaccard approach is :
+0.6548542065736265
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d3ubca_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1b0ba_.keys
+final value of similarity using jaccard approach is :
+0.2801058962707786
+final value of distance using jaccard approach is :
+0.7198941037292215
+===========================================================================
+Total comparison time using Parallel approach is :21 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d3ubca_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1cg5b_.keys
+final value of similarity using jaccard approach is :
+0.4329180225172708
+final value of distance using jaccard approach is :
+0.5670819774827291
+===========================================================================
+Total comparison time using Parallel approach is :19 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d3ubca_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1cqxa1.keys
+final value of similarity using jaccard approach is :
+0.37817619179954787
+final value of distance using jaccard approach is :
+0.6218238082004521
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d3ubca_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1ecaa_.keys
+final value of similarity using jaccard approach is :
+0.330751901355809
+final value of distance using jaccard approach is :
+0.669248098644191
+===========================================================================
+Total comparison time using Parallel approach is :21 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d3ubca_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1gcva_.keys
+final value of similarity using jaccard approach is :
+0.37976319060223107
+final value of distance using jaccard approach is :
+0.6202368093977689
+===========================================================================
+Total comparison time using Parallel approach is :19 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d3ubca_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1h97a_.keys
+final value of similarity using jaccard approach is :
+0.37875206272877004
+final value of distance using jaccard approach is :
+0.62124793727123
+===========================================================================
+Total comparison time using Parallel approach is :19 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1asha_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d1x3ka_.keys
+final value of similarity using jaccard approach is :
+0.37496365826307265
+final value of distance using jaccard approach is :
+0.6250363417369273
+===========================================================================
+Total comparison time using Parallel approach is :21 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1asha_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d1x46a_.keys
+final value of similarity using jaccard approach is :
+0.37182386743901596
+final value of distance using jaccard approach is :
+0.628176132560984
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1asha_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2bk9a_.keys
+final value of similarity using jaccard approach is :
+0.36698432589459296
+final value of distance using jaccard approach is :
+0.633015674105407
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1asha_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2c0ka_.keys
+final value of similarity using jaccard approach is :
+0.46468621835763607
+final value of distance using jaccard approach is :
+0.5353137816423639
+===========================================================================
+Total comparison time using Parallel approach is :19 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1asha_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2ig3a_.keys
+final value of similarity using jaccard approach is :
+0.32886240993168847
+final value of distance using jaccard approach is :
+0.6711375900683115
+===========================================================================
+Total comparison time using Parallel approach is :19 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1asha_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2wtga_.keys
+final value of similarity using jaccard approach is :
+0.4559221153280708
+final value of distance using jaccard approach is :
+0.5440778846719292
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1asha_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2wy4a_.keys
+final value of similarity using jaccard approach is :
+0.367058689035282
+final value of distance using jaccard approach is :
+0.632941310964718
+===========================================================================
+Total comparison time using Parallel approach is :19 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1asha_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0a_.keys
+final value of similarity using jaccard approach is :
+0.27594152757236423
+final value of distance using jaccard approach is :
+0.7240584724276358
+===========================================================================
+Total comparison time using Parallel approach is :19 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1asha_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0b_.keys
+final value of similarity using jaccard approach is :
+0.2600944835995797
+final value of distance using jaccard approach is :
+0.7399055164004202
+===========================================================================
+Total comparison time using Parallel approach is :21 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1asha_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0c_.keys
+final value of similarity using jaccard approach is :
+0.19012271458991115
+final value of distance using jaccard approach is :
+0.8098772854100889
+===========================================================================
+Total comparison time using Parallel approach is :23 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1asha_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0d_.keys
+final value of similarity using jaccard approach is :
+0.20719084520760778
+final value of distance using jaccard approach is :
+0.7928091547923922
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1asha_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d3pt8a_.keys
+final value of similarity using jaccard approach is :
+0.36413188854176654
+final value of distance using jaccard approach is :
+0.6358681114582334
+===========================================================================
+Total comparison time using Parallel approach is :19 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1asha_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d3ubca_.keys
+final value of similarity using jaccard approach is :
+0.3451457934263736
+final value of distance using jaccard approach is :
+0.6548542065736265
+===========================================================================
+Total comparison time using Parallel approach is :15 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1asha_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1asha_.keys
+final value of similarity using jaccard approach is :
+1.0
+final value of distance using jaccard approach is :
+0.0
+===========================================================================
+Total comparison time using Parallel approach is :18 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1asha_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1b0ba_.keys
+final value of similarity using jaccard approach is :
+0.26545883133957954
+final value of distance using jaccard approach is :
+0.7345411686604204
+===========================================================================
+Total comparison time using Parallel approach is :19 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1asha_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1cg5b_.keys
+final value of similarity using jaccard approach is :
+0.40380792653984127
+final value of distance using jaccard approach is :
+0.5961920734601587
+===========================================================================
+Total comparison time using Parallel approach is :19 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1asha_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1cqxa1.keys
+final value of similarity using jaccard approach is :
+0.34279722596628087
+final value of distance using jaccard approach is :
+0.6572027740337192
+===========================================================================
+Total comparison time using Parallel approach is :19 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1asha_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1ecaa_.keys
+final value of similarity using jaccard approach is :
+0.31156164956199134
+final value of distance using jaccard approach is :
+0.6884383504380087
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1asha_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1gcva_.keys
+final value of similarity using jaccard approach is :
+0.36798149304361
+final value of distance using jaccard approach is :
+0.63201850695639
+===========================================================================
+Total comparison time using Parallel approach is :18 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1asha_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1h97a_.keys
+final value of similarity using jaccard approach is :
+0.41670137869341656
+final value of distance using jaccard approach is :
+0.5832986213065834
+===========================================================================
+Total comparison time using Parallel approach is :22 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1b0ba_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d1x3ka_.keys
+final value of similarity using jaccard approach is :
+0.34296885582403386
+final value of distance using jaccard approach is :
+0.6570311441759662
+===========================================================================
+Total comparison time using Parallel approach is :19 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1b0ba_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d1x46a_.keys
+final value of similarity using jaccard approach is :
+0.4321455702043975
+final value of distance using jaccard approach is :
+0.5678544297956025
+===========================================================================
+Total comparison time using Parallel approach is :22 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1b0ba_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2bk9a_.keys
+final value of similarity using jaccard approach is :
+0.32832455076393063
+final value of distance using jaccard approach is :
+0.6716754492360694
+===========================================================================
+Total comparison time using Parallel approach is :19 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1b0ba_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2c0ka_.keys
+final value of similarity using jaccard approach is :
+0.27053289798550856
+final value of distance using jaccard approach is :
+0.7294671020144914
+===========================================================================
+Total comparison time using Parallel approach is :19 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1b0ba_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2ig3a_.keys
+final value of similarity using jaccard approach is :
+0.2601300793831668
+final value of distance using jaccard approach is :
+0.7398699206168332
+===========================================================================
+Total comparison time using Parallel approach is :17 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1b0ba_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2wtga_.keys
+final value of similarity using jaccard approach is :
+0.33552636361653715
+final value of distance using jaccard approach is :
+0.6644736363834629
+===========================================================================
+Total comparison time using Parallel approach is :21 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1b0ba_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2wy4a_.keys
+final value of similarity using jaccard approach is :
+0.2644912440274508
+final value of distance using jaccard approach is :
+0.7355087559725493
+===========================================================================
+Total comparison time using Parallel approach is :19 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1b0ba_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0a_.keys
+final value of similarity using jaccard approach is :
+0.3517340897989182
+final value of distance using jaccard approach is :
+0.6482659102010818
+===========================================================================
+Total comparison time using Parallel approach is :19 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1b0ba_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0b_.keys
+final value of similarity using jaccard approach is :
+0.33726489124570214
+final value of distance using jaccard approach is :
+0.6627351087542979
+===========================================================================
+Total comparison time using Parallel approach is :19 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1b0ba_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0c_.keys
+final value of similarity using jaccard approach is :
+0.30752556505709183
+final value of distance using jaccard approach is :
+0.6924744349429082
+===========================================================================
+Total comparison time using Parallel approach is :21 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1b0ba_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0d_.keys
+final value of similarity using jaccard approach is :
+0.3446079804901951
+final value of distance using jaccard approach is :
+0.6553920195098049
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1b0ba_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d3pt8a_.keys
+final value of similarity using jaccard approach is :
+0.37608507617966824
+final value of distance using jaccard approach is :
+0.6239149238203318
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1b0ba_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d3ubca_.keys
+final value of similarity using jaccard approach is :
+0.2801058962707786
+final value of distance using jaccard approach is :
+0.7198941037292215
+===========================================================================
+Total comparison time using Parallel approach is :21 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1b0ba_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1asha_.keys
+final value of similarity using jaccard approach is :
+0.26545883133957954
+final value of distance using jaccard approach is :
+0.7345411686604204
+===========================================================================
+Total comparison time using Parallel approach is :13 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1b0ba_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1b0ba_.keys
+final value of similarity using jaccard approach is :
+1.0
+final value of distance using jaccard approach is :
+0.0
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1b0ba_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1cg5b_.keys
+final value of similarity using jaccard approach is :
+0.3238765894928821
+final value of distance using jaccard approach is :
+0.6761234105071179
+===========================================================================
+Total comparison time using Parallel approach is :17 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1b0ba_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1cqxa1.keys
+final value of similarity using jaccard approach is :
+0.31963297662862367
+final value of distance using jaccard approach is :
+0.6803670233713763
+===========================================================================
+Total comparison time using Parallel approach is :23 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1b0ba_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1ecaa_.keys
+final value of similarity using jaccard approach is :
+0.4223585881859045
+final value of distance using jaccard approach is :
+0.5776414118140956
+===========================================================================
+Total comparison time using Parallel approach is :18 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1b0ba_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1gcva_.keys
+final value of similarity using jaccard approach is :
+0.3001965618911323
+final value of distance using jaccard approach is :
+0.6998034381088677
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1b0ba_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1h97a_.keys
+final value of similarity using jaccard approach is :
+0.29725257197543664
+final value of distance using jaccard approach is :
+0.7027474280245634
+===========================================================================
+Total comparison time using Parallel approach is :22 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1cg5b_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d1x3ka_.keys
+final value of similarity using jaccard approach is :
+0.4014045169068009
+final value of distance using jaccard approach is :
+0.5985954830931991
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1cg5b_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d1x46a_.keys
+final value of similarity using jaccard approach is :
+0.45113509982749417
+final value of distance using jaccard approach is :
+0.5488649001725059
+===========================================================================
+Total comparison time using Parallel approach is :21 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1cg5b_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2bk9a_.keys
+final value of similarity using jaccard approach is :
+0.4307596878799606
+final value of distance using jaccard approach is :
+0.5692403121200393
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1cg5b_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2c0ka_.keys
+final value of similarity using jaccard approach is :
+0.4242584708365988
+final value of distance using jaccard approach is :
+0.5757415291634012
+===========================================================================
+Total comparison time using Parallel approach is :19 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1cg5b_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2ig3a_.keys
+final value of similarity using jaccard approach is :
+0.34415374677002586
+final value of distance using jaccard approach is :
+0.6558462532299741
+===========================================================================
+Total comparison time using Parallel approach is :21 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1cg5b_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2wtga_.keys
+final value of similarity using jaccard approach is :
+0.44443163144693976
+final value of distance using jaccard approach is :
+0.5555683685530602
+===========================================================================
+Total comparison time using Parallel approach is :19 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1cg5b_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2wy4a_.keys
+final value of similarity using jaccard approach is :
+0.35965526405710163
+final value of distance using jaccard approach is :
+0.6403447359428984
+===========================================================================
+Total comparison time using Parallel approach is :21 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1cg5b_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0a_.keys
+final value of similarity using jaccard approach is :
+0.3420908609558332
+final value of distance using jaccard approach is :
+0.6579091390441668
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1cg5b_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0b_.keys
+final value of similarity using jaccard approach is :
+0.2868019598017928
+final value of distance using jaccard approach is :
+0.7131980401982072
+===========================================================================
+Total comparison time using Parallel approach is :19 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1cg5b_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0c_.keys
+final value of similarity using jaccard approach is :
+0.22387290456556416
+final value of distance using jaccard approach is :
+0.7761270954344358
+===========================================================================
+Total comparison time using Parallel approach is :21 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1cg5b_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0d_.keys
+final value of similarity using jaccard approach is :
+0.2659612264160949
+final value of distance using jaccard approach is :
+0.7340387735839051
+===========================================================================
+Total comparison time using Parallel approach is :19 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1cg5b_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d3pt8a_.keys
+final value of similarity using jaccard approach is :
+0.4073667722414281
+final value of distance using jaccard approach is :
+0.592633227758572
+===========================================================================
+Total comparison time using Parallel approach is :21 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1cg5b_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d3ubca_.keys
+final value of similarity using jaccard approach is :
+0.4329180225172708
+final value of distance using jaccard approach is :
+0.5670819774827291
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1cg5b_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1asha_.keys
+final value of similarity using jaccard approach is :
+0.40380792653984127
+final value of distance using jaccard approach is :
+0.5961920734601587
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1cg5b_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1b0ba_.keys
+final value of similarity using jaccard approach is :
+0.3238765894928821
+final value of distance using jaccard approach is :
+0.6761234105071179
+===========================================================================
+Total comparison time using Parallel approach is :15 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1cg5b_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1cg5b_.keys
+final value of similarity using jaccard approach is :
+1.0
+final value of distance using jaccard approach is :
+0.0
+===========================================================================
+Total comparison time using Parallel approach is :18 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1cg5b_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1cqxa1.keys
+final value of similarity using jaccard approach is :
+0.3834180758801269
+final value of distance using jaccard approach is :
+0.6165819241198731
+===========================================================================
+Total comparison time using Parallel approach is :22 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1cg5b_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1ecaa_.keys
+final value of similarity using jaccard approach is :
+0.38916249845844364
+final value of distance using jaccard approach is :
+0.6108375015415564
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1cg5b_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1gcva_.keys
+final value of similarity using jaccard approach is :
+0.42355970946412586
+final value of distance using jaccard approach is :
+0.5764402905358741
+===========================================================================
+Total comparison time using Parallel approach is :21 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1cg5b_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1h97a_.keys
+final value of similarity using jaccard approach is :
+0.44820816745039094
+final value of distance using jaccard approach is :
+0.5517918325496091
+===========================================================================
+Total comparison time using Parallel approach is :28 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1cqxa1.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d1x3ka_.keys
+final value of similarity using jaccard approach is :
+0.35035550199954874
+final value of distance using jaccard approach is :
+0.6496444980004512
+===========================================================================
+Total comparison time using Parallel approach is :22 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1cqxa1.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d1x46a_.keys
+final value of similarity using jaccard approach is :
+0.4285344112769486
+final value of distance using jaccard approach is :
+0.5714655887230514
+===========================================================================
+Total comparison time using Parallel approach is :17 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1cqxa1.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2bk9a_.keys
+final value of similarity using jaccard approach is :
+0.36933072938942657
+final value of distance using jaccard approach is :
+0.6306692706105734
+===========================================================================
+Total comparison time using Parallel approach is :21 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1cqxa1.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2c0ka_.keys
+final value of similarity using jaccard approach is :
+0.34238646753667334
+final value of distance using jaccard approach is :
+0.6576135324633267
+===========================================================================
+Total comparison time using Parallel approach is :18 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1cqxa1.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2ig3a_.keys
+final value of similarity using jaccard approach is :
+0.33372580885889125
+final value of distance using jaccard approach is :
+0.6662741911411088
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1cqxa1.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2wtga_.keys
+final value of similarity using jaccard approach is :
+0.40655578104754225
+final value of distance using jaccard approach is :
+0.5934442189524578
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1cqxa1.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2wy4a_.keys
+final value of similarity using jaccard approach is :
+0.4090348438407985
+final value of distance using jaccard approach is :
+0.5909651561592015
+===========================================================================
+Total comparison time using Parallel approach is :21 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1cqxa1.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0a_.keys
+final value of similarity using jaccard approach is :
+0.3243090956096332
+final value of distance using jaccard approach is :
+0.6756909043903667
+===========================================================================
+Total comparison time using Parallel approach is :18 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1cqxa1.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0b_.keys
+final value of similarity using jaccard approach is :
+0.2908148198843884
+final value of distance using jaccard approach is :
+0.7091851801156116
+===========================================================================
+Total comparison time using Parallel approach is :18 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1cqxa1.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0c_.keys
+final value of similarity using jaccard approach is :
+0.23521160906005403
+final value of distance using jaccard approach is :
+0.764788390939946
+===========================================================================
+Total comparison time using Parallel approach is :21 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1cqxa1.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0d_.keys
+final value of similarity using jaccard approach is :
+0.2858060466986359
+final value of distance using jaccard approach is :
+0.7141939533013641
+===========================================================================
+Total comparison time using Parallel approach is :27 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1cqxa1.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d3pt8a_.keys
+final value of similarity using jaccard approach is :
+0.3640009797317984
+final value of distance using jaccard approach is :
+0.6359990202682015
+===========================================================================
+Total comparison time using Parallel approach is :22 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1cqxa1.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d3ubca_.keys
+final value of similarity using jaccard approach is :
+0.37817619179954787
+final value of distance using jaccard approach is :
+0.6218238082004521
+===========================================================================
+Total comparison time using Parallel approach is :22 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1cqxa1.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1asha_.keys
+final value of similarity using jaccard approach is :
+0.34279722596628087
+final value of distance using jaccard approach is :
+0.6572027740337192
+===========================================================================
+Total comparison time using Parallel approach is :19 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1cqxa1.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1b0ba_.keys
+final value of similarity using jaccard approach is :
+0.31963297662862367
+final value of distance using jaccard approach is :
+0.6803670233713763
+===========================================================================
+Total comparison time using Parallel approach is :21 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1cqxa1.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1cg5b_.keys
+final value of similarity using jaccard approach is :
+0.3834180758801269
+final value of distance using jaccard approach is :
+0.6165819241198731
+===========================================================================
+Total comparison time using Parallel approach is :14 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1cqxa1.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1cqxa1.keys
+final value of similarity using jaccard approach is :
+1.0
+final value of distance using jaccard approach is :
+0.0
+===========================================================================
+Total comparison time using Parallel approach is :18 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1cqxa1.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1ecaa_.keys
+final value of similarity using jaccard approach is :
+0.3294960765386137
+final value of distance using jaccard approach is :
+0.6705039234613863
+===========================================================================
+Total comparison time using Parallel approach is :21 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1cqxa1.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1gcva_.keys
+final value of similarity using jaccard approach is :
+0.35745425685739446
+final value of distance using jaccard approach is :
+0.6425457431426056
+===========================================================================
+Total comparison time using Parallel approach is :17 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1cqxa1.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1h97a_.keys
+final value of similarity using jaccard approach is :
+0.4095197069156987
+final value of distance using jaccard approach is :
+0.5904802930843013
+===========================================================================
+Total comparison time using Parallel approach is :22 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1ecaa_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d1x3ka_.keys
+final value of similarity using jaccard approach is :
+0.44118806021747314
+final value of distance using jaccard approach is :
+0.5588119397825269
+===========================================================================
+Total comparison time using Parallel approach is :21 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1ecaa_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d1x46a_.keys
+final value of similarity using jaccard approach is :
+0.47609600904076943
+final value of distance using jaccard approach is :
+0.5239039909592306
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1ecaa_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2bk9a_.keys
+final value of similarity using jaccard approach is :
+0.42882408505335934
+final value of distance using jaccard approach is :
+0.5711759149466407
+===========================================================================
+Total comparison time using Parallel approach is :18 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1ecaa_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2c0ka_.keys
+final value of similarity using jaccard approach is :
+0.3435205397896408
+final value of distance using jaccard approach is :
+0.6564794602103592
+===========================================================================
+Total comparison time using Parallel approach is :21 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1ecaa_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2ig3a_.keys
+final value of similarity using jaccard approach is :
+0.305530921000641
+final value of distance using jaccard approach is :
+0.6944690789993591
+===========================================================================
+Total comparison time using Parallel approach is :19 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1ecaa_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2wtga_.keys
+final value of similarity using jaccard approach is :
+0.3732331758773431
+final value of distance using jaccard approach is :
+0.6267668241226569
+===========================================================================
+Total comparison time using Parallel approach is :22 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1ecaa_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2wy4a_.keys
+final value of similarity using jaccard approach is :
+0.31319780604360037
+final value of distance using jaccard approach is :
+0.6868021939563996
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1ecaa_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0a_.keys
+final value of similarity using jaccard approach is :
+0.3314165687326222
+final value of distance using jaccard approach is :
+0.6685834312673777
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1ecaa_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0b_.keys
+final value of similarity using jaccard approach is :
+0.30838723918986843
+final value of distance using jaccard approach is :
+0.6916127608101316
+===========================================================================
+Total comparison time using Parallel approach is :21 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1ecaa_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0c_.keys
+final value of similarity using jaccard approach is :
+0.24342609105466387
+final value of distance using jaccard approach is :
+0.7565739089453362
+===========================================================================
+Total comparison time using Parallel approach is :19 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1ecaa_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0d_.keys
+final value of similarity using jaccard approach is :
+0.34943914604503185
+final value of distance using jaccard approach is :
+0.6505608539549681
+===========================================================================
+Total comparison time using Parallel approach is :21 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1ecaa_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d3pt8a_.keys
+final value of similarity using jaccard approach is :
+0.4227103494181241
+final value of distance using jaccard approach is :
+0.5772896505818759
+===========================================================================
+Total comparison time using Parallel approach is :21 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1ecaa_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d3ubca_.keys
+final value of similarity using jaccard approach is :
+0.330751901355809
+final value of distance using jaccard approach is :
+0.669248098644191
+===========================================================================
+Total comparison time using Parallel approach is :19 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1ecaa_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1asha_.keys
+final value of similarity using jaccard approach is :
+0.31156164956199134
+final value of distance using jaccard approach is :
+0.6884383504380087
+===========================================================================
+Total comparison time using Parallel approach is :21 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1ecaa_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1b0ba_.keys
+final value of similarity using jaccard approach is :
+0.4223585881859045
+final value of distance using jaccard approach is :
+0.5776414118140956
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1ecaa_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1cg5b_.keys
+final value of similarity using jaccard approach is :
+0.38916249845844364
+final value of distance using jaccard approach is :
+0.6108375015415564
+===========================================================================
+Total comparison time using Parallel approach is :19 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1ecaa_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1cqxa1.keys
+final value of similarity using jaccard approach is :
+0.3294960765386137
+final value of distance using jaccard approach is :
+0.6705039234613863
+===========================================================================
+Total comparison time using Parallel approach is :14 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1ecaa_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1ecaa_.keys
+final value of similarity using jaccard approach is :
+1.0
+final value of distance using jaccard approach is :
+0.0
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1ecaa_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1gcva_.keys
+final value of similarity using jaccard approach is :
+0.35453108194121763
+final value of distance using jaccard approach is :
+0.6454689180587824
+===========================================================================
+Total comparison time using Parallel approach is :19 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1ecaa_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1h97a_.keys
+final value of similarity using jaccard approach is :
+0.4155750523578564
+final value of distance using jaccard approach is :
+0.5844249476421436
+===========================================================================
+Total comparison time using Parallel approach is :21 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1gcva_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d1x3ka_.keys
+final value of similarity using jaccard approach is :
+0.3477443906661529
+final value of distance using jaccard approach is :
+0.6522556093338471
+===========================================================================
+Total comparison time using Parallel approach is :21 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1gcva_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d1x46a_.keys
+final value of similarity using jaccard approach is :
+0.4095513870720566
+final value of distance using jaccard approach is :
+0.5904486129279434
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1gcva_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2bk9a_.keys
+final value of similarity using jaccard approach is :
+0.3838224280157936
+final value of distance using jaccard approach is :
+0.6161775719842064
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1gcva_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2c0ka_.keys
+final value of similarity using jaccard approach is :
+0.3299178254363027
+final value of distance using jaccard approach is :
+0.6700821745636973
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1gcva_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2ig3a_.keys
+final value of similarity using jaccard approach is :
+0.2470598192058278
+final value of distance using jaccard approach is :
+0.7529401807941722
+===========================================================================
+Total comparison time using Parallel approach is :18 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1gcva_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2wtga_.keys
+final value of similarity using jaccard approach is :
+0.36075258036271424
+final value of distance using jaccard approach is :
+0.6392474196372857
+===========================================================================
+Total comparison time using Parallel approach is :21 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1gcva_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2wy4a_.keys
+final value of similarity using jaccard approach is :
+0.30954257567176297
+final value of distance using jaccard approach is :
+0.6904574243282371
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1gcva_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0a_.keys
+final value of similarity using jaccard approach is :
+0.3416887868355144
+final value of distance using jaccard approach is :
+0.6583112131644856
+===========================================================================
+Total comparison time using Parallel approach is :21 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1gcva_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0b_.keys
+final value of similarity using jaccard approach is :
+0.30032068777292575
+final value of distance using jaccard approach is :
+0.6996793122270742
+===========================================================================
+Total comparison time using Parallel approach is :27 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1gcva_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0c_.keys
+final value of similarity using jaccard approach is :
+0.2350799019344679
+final value of distance using jaccard approach is :
+0.7649200980655321
+===========================================================================
+Total comparison time using Parallel approach is :21 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1gcva_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0d_.keys
+final value of similarity using jaccard approach is :
+0.3297375469871925
+final value of distance using jaccard approach is :
+0.6702624530128075
+===========================================================================
+Total comparison time using Parallel approach is :19 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1gcva_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d3pt8a_.keys
+final value of similarity using jaccard approach is :
+0.35648863163266675
+final value of distance using jaccard approach is :
+0.6435113683673332
+===========================================================================
+Total comparison time using Parallel approach is :21 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1gcva_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d3ubca_.keys
+final value of similarity using jaccard approach is :
+0.37976319060223107
+final value of distance using jaccard approach is :
+0.6202368093977689
+===========================================================================
+Total comparison time using Parallel approach is :18 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1gcva_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1asha_.keys
+final value of similarity using jaccard approach is :
+0.36798149304361
+final value of distance using jaccard approach is :
+0.63201850695639
+===========================================================================
+Total comparison time using Parallel approach is :19 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1gcva_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1b0ba_.keys
+final value of similarity using jaccard approach is :
+0.3001965618911323
+final value of distance using jaccard approach is :
+0.6998034381088677
+===========================================================================
+Total comparison time using Parallel approach is :21 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1gcva_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1cg5b_.keys
+final value of similarity using jaccard approach is :
+0.42355970946412586
+final value of distance using jaccard approach is :
+0.5764402905358741
+===========================================================================
+Total comparison time using Parallel approach is :19 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1gcva_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1cqxa1.keys
+final value of similarity using jaccard approach is :
+0.35745425685739446
+final value of distance using jaccard approach is :
+0.6425457431426056
+===========================================================================
+Total comparison time using Parallel approach is :19 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1gcva_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1ecaa_.keys
+final value of similarity using jaccard approach is :
+0.35453108194121763
+final value of distance using jaccard approach is :
+0.6454689180587824
+===========================================================================
+Total comparison time using Parallel approach is :13 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1gcva_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1gcva_.keys
+final value of similarity using jaccard approach is :
+1.0
+final value of distance using jaccard approach is :
+0.0
+===========================================================================
+Total comparison time using Parallel approach is :21 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1gcva_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1h97a_.keys
+final value of similarity using jaccard approach is :
+0.4485910551944158
+final value of distance using jaccard approach is :
+0.5514089448055842
+===========================================================================
+Total comparison time using Parallel approach is :18 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1h97a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d1x3ka_.keys
+final value of similarity using jaccard approach is :
+0.3724658819804846
+final value of distance using jaccard approach is :
+0.6275341180195154
+===========================================================================
+Total comparison time using Parallel approach is :23 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1h97a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d1x46a_.keys
+final value of similarity using jaccard approach is :
+0.43956843824587555
+final value of distance using jaccard approach is :
+0.5604315617541245
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1h97a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2bk9a_.keys
+final value of similarity using jaccard approach is :
+0.4035729451941586
+final value of distance using jaccard approach is :
+0.5964270548058415
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1h97a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2c0ka_.keys
+final value of similarity using jaccard approach is :
+0.4061077008598564
+final value of distance using jaccard approach is :
+0.5938922991401436
+===========================================================================
+Total comparison time using Parallel approach is :19 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1h97a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2ig3a_.keys
+final value of similarity using jaccard approach is :
+0.33764121499846145
+final value of distance using jaccard approach is :
+0.6623587850015386
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1h97a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2wtga_.keys
+final value of similarity using jaccard approach is :
+0.4038693783200441
+final value of distance using jaccard approach is :
+0.5961306216799559
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1h97a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2wy4a_.keys
+final value of similarity using jaccard approach is :
+0.39645082700664613
+final value of distance using jaccard approach is :
+0.6035491729933539
+===========================================================================
+Total comparison time using Parallel approach is :18 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1h97a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0a_.keys
+final value of similarity using jaccard approach is :
+0.2782624800735542
+final value of distance using jaccard approach is :
+0.7217375199264457
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1h97a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0b_.keys
+final value of similarity using jaccard approach is :
+0.23679737045145183
+final value of distance using jaccard approach is :
+0.7632026295485481
+===========================================================================
+Total comparison time using Parallel approach is :19 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1h97a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0c_.keys
+final value of similarity using jaccard approach is :
+0.17788327790224068
+final value of distance using jaccard approach is :
+0.8221167220977593
+===========================================================================
+Total comparison time using Parallel approach is :19 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1h97a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d2zs0d_.keys
+final value of similarity using jaccard approach is :
+0.2703621945670815
+final value of distance using jaccard approach is :
+0.7296378054329185
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1h97a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d3pt8a_.keys
+final value of similarity using jaccard approach is :
+0.38301655567295956
+final value of distance using jaccard approach is :
+0.6169834443270404
+===========================================================================
+Total comparison time using Parallel approach is :22 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1h97a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_0_d3ubca_.keys
+final value of similarity using jaccard approach is :
+0.37875206272877004
+final value of distance using jaccard approach is :
+0.62124793727123
+===========================================================================
+Total comparison time using Parallel approach is :20 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1h97a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1asha_.keys
+final value of similarity using jaccard approach is :
+0.41670137869341656
+final value of distance using jaccard approach is :
+0.5832986213065834
+===========================================================================
+Total comparison time using Parallel approach is :19 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1h97a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1b0ba_.keys
+final value of similarity using jaccard approach is :
+0.29725257197543664
+final value of distance using jaccard approach is :
+0.7027474280245634
+===========================================================================
+Total comparison time using Parallel approach is :18 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1h97a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1cg5b_.keys
+final value of similarity using jaccard approach is :
+0.44820816745039094
+final value of distance using jaccard approach is :
+0.5517918325496091
+===========================================================================
+Total comparison time using Parallel approach is :21 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1h97a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1cqxa1.keys
+final value of similarity using jaccard approach is :
+0.4095197069156987
+final value of distance using jaccard approach is :
+0.5904802930843013
+===========================================================================
+Total comparison time using Parallel approach is :19 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1h97a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1ecaa_.keys
+final value of similarity using jaccard approach is :
+0.4155750523578564
+final value of distance using jaccard approach is :
+0.5844249476421436
+===========================================================================
+Total comparison time using Parallel approach is :19 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1h97a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1gcva_.keys
+final value of similarity using jaccard approach is :
+0.4485910551944158
+final value of distance using jaccard approach is :
+0.5514089448055842
+===========================================================================
+Total comparison time using Parallel approach is :14 ms
+numerator calculation done , basefile is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1h97a_.keys comparedto file is E:\hybris self notes\c1c1\input files\alpha_1_1_2_d1h97a_.keys
+final value of similarity using jaccard approach is :
+1.0
+final value of distance using jaccard approach is :
+0.0
+===========================================================================
+Matrix for jaccard similarity
+============================
+1.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   
+
+0.442110498144   1.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   
+
+0.421213064984   0.490091195612   1.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   
+
+0.412728747542   0.408170094074   0.397100273501   1.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   
+
+0.304854070086   0.33907150847   0.290265538929   0.313187914233   1.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   
+
+0.478547070035   0.450362391761   0.419396374184   0.436198873377   0.331763799443   1.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   
+
+0.331296060673   0.360996084668   0.33615162634   0.380381426526   0.412286403225   0.358757909238   1.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   
+
+0.342197388617   0.377839635511   0.359047875945   0.261280599831   0.228544460613   0.378912733161   0.234722630821   1.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   
+
+0.357560361084   0.354318479197   0.371871610912   0.255614005457   0.221755055322   0.35317092401   0.23626229544   0.508802834325   1.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   
+
+0.261661358088   0.304757398643   0.262606438036   0.203847261664   0.147204157747   0.258742945661   0.15642671502   0.423806611802   0.429927607599   1.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   
+
+0.310176415993   0.370214100035   0.345337540686   0.225801023234   0.191130751116   0.281409847354   0.215034744813   0.430147142263   0.411250864827   0.389775090835   1.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   
+
+0.528449040041   0.43271073721   0.41087494453   0.370085026399   0.321117829229   0.463572241569   0.335923823564   0.364813773869   0.359775971179   0.263665042387   0.306926823736   1.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   
+
+0.331742233292   0.356296401423   0.385571961792   0.316552678179   0.397505538918   0.370988124714   0.40031797942   0.314180830378   0.303332916263   0.179023532234   0.265676536224   0.359105930703   1.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   
+
+0.374963658263   0.371823867439   0.366984325895   0.464686218358   0.328862409932   0.455922115328   0.367058689035   0.275941527572   0.2600944836   0.19012271459   0.207190845208   0.364131888542   0.345145793426   1.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   
+
+0.342968855824   0.432145570204   0.328324550764   0.270532897986   0.260130079383   0.335526363617   0.264491244027   0.351734089799   0.337264891246   0.307525565057   0.34460798049   0.37608507618   0.280105896271   0.26545883134   1.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   
+
+0.401404516907   0.451135099827   0.43075968788   0.424258470837   0.34415374677   0.444431631447   0.359655264057   0.342090860956   0.286801959802   0.223872904566   0.265961226416   0.407366772241   0.432918022517   0.40380792654   0.323876589493   1.000000000000   0.000000000000   0.000000000000   0.000000000000   0.000000000000   
+
+0.350355502   0.428534411277   0.369330729389   0.342386467537   0.333725808859   0.406555781048   0.409034843841   0.32430909561   0.290814819884   0.23521160906   0.285806046699   0.364000979732   0.3781761918   0.342797225966   0.319632976629   0.38341807588   1.000000000000   0.000000000000   0.000000000000   0.000000000000   
+
+0.441188060217   0.476096009041   0.428824085053   0.34352053979   0.305530921001   0.373233175877   0.313197806044   0.331416568733   0.30838723919   0.243426091055   0.349439146045   0.422710349418   0.330751901356   0.311561649562   0.422358588186   0.389162498458   0.329496076539   1.000000000000   0.000000000000   0.000000000000   
+
+0.347744390666   0.409551387072   0.383822428016   0.329917825436   0.247059819206   0.360752580363   0.309542575672   0.341688786836   0.300320687773   0.235079901934   0.329737546987   0.356488631633   0.379763190602   0.367981493044   0.300196561891   0.423559709464   0.357454256857   0.354531081941   1.000000000000   0.000000000000   
+
+0.37246588198   0.439568438246   0.403572945194   0.40610770086   0.337641214998   0.40386937832   0.396450827007   0.278262480074   0.236797370451   0.177883277902   0.270362194567   0.383016555673   0.378752062729   0.416701378693   0.297252571975   0.44820816745   0.409519706916   0.415575052358   0.448591055194   1.000000000000   
+
